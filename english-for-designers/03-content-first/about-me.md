@@ -2,7 +2,7 @@
 
 ![A black and white picture of me](https://github.com/fmorys/fmorys.github.io/blob/main/english-for-designers/img/FOTK.png?raw=true)
 
-## My name and it's consequences - also a bit about me
+## A bit about me
 Hey, I'm Filip. I come from the city of Zlín, which is probably as far away from Prague as you can get within the borders of this country (also uncomfortably close to Slovakia). When I'm not busy explaining that I am not the world's most renowned lung destroyer and I actually have no ties to the tobacco industry I do my best to express myself through creating things. My attention span is attrocious and therefore I try to find as many ways to keep it in line as possible, which might be precisely the reason why I try to approach my work from as many angles as possible. I dabble in graphic design, some motion design, 3D, music, a tiny bit of animation and also photography. I find that all of these things can go hand in hand to not only make my work easier, but also more original.
 
 ## How I got my start with creating things
