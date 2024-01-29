@@ -4,4 +4,4 @@
 
 [My projects](my-work.md)
 
-[Portfolio](morys.studio)
+[My website/portfolio](https://morys.studio)
