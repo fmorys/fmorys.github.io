@@ -10,14 +10,17 @@ There's a little thing called an NDA that's preventing me from showing most of t
 Hraj s Námi! serves as a recruitment website for Eluvia, a company which provides IT solutions. The name directly translates to "Play with Us!" and the website mainly aims to provide info about the company and the team members. Since we're all supposed to "play together" in this context, I decided that a playing board figure would be the best element to use for the purposes of the website. I've used it as the basis for most of the 3D visuals on the website and we also have an ongoing arrangement - when there's a new employee joining the office, they can describe their playing board figure, pick which colors/accessories they like and I create that figure for use on the website.
 
 [Kreativní Česko](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4-1)
+![a mock-up of a laptop with a website on it's screen](https://static.wixstatic.com/media/c5b70a_730e29c443a342178d44ca5841f5a7ba~mv2.jpg/v1/fill/w_1920,h_1011,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01/c5b70a_730e29c443a342178d44ca5841f5a7ba~mv2.jpg) 
 
 Kreativní Česko (Creative Czechia) is a project managed by the Ministry of Culture, it covers communication platforms for creative industries. My work on the project included creating the visual identity (with an included brand guide) and designing a UI kit for the website. Currently the main website is still a WIP and my design is only used for the web portal for Creative vouchers (a financial tool to help support the cooperation of small and medium-sized enterprises and providers of creative services.
 
 [United Islands of Prague 2023](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-2)
+![a mock-up of a billboard with festival visuals](https://static.wixstatic.com/media/c5b70a_7e282d3db7aa484480d9f3397a347e02~mv2.jpg/v1/fill/w_1548,h_815,fp_0.50_0.50,q_85/c5b70a_7e282d3db7aa484480d9f3397a347e02~mv2.jpg) 
 
 My proposal for the visual identity of United Islands of Prague 2023 (a music festival). I focused mainly on higlighting unity, sustainability, friendship and tradition. I felt like a circle is a shape which represents all of these values quite well so I decided to go with linking multiple circles for the logo which I then incorporated into various parts of the whole identity. One of the ways I wanted to use this symbol was to show 
 
 [Člověk v Tísni - AR filter](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4)
+![a mock-up of an instagram filter](https://static.wixstatic.com/media/c5b70a_589dc2f0409e4c1aa13d4699d0a91cac~mv2.jpg/v1/fill/w_1920,h_1011,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01/c5b70a_589dc2f0409e4c1aa13d4699d0a91cac~mv2.jpg) 
 
 An AR filter I created for the Christmas campaign of Skutečný dárek - a project managed by Člověk v Tísni (People in Need). It works as a random picker of gifts towards which people can donate.
 
