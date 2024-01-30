@@ -25,7 +25,7 @@ An AR filter I created for the Christmas campaign of Skutečný dárek - a proje
 A series of visuals made as a proposal for DDB FTW Prague.
 ![a 3D render of a stylized keyboard](https://github.com/fmorys/english-for-designers/blob/main/KEYBOARD.png?raw=true) 
 ![a 3D render of a post-apocalyptic city](https://github.com/fmorys/english-for-designers/blob/main/CITY.jpg?raw=true)
-![a 3D render of a glowing sci-fi loot crate](https://github.com/fmorys/english-for-designers/blob/main/RENDERDDB.png?raw=true)
+![a 3D render of a glowing sci-fi loot crate in a storage room](https://github.com/fmorys/english-for-designers/blob/main/RENDERDDB.png?raw=true)
 
 A test environment for a stylized sea shader.
 ![a 3D render of a night time scene of a glowing sci-fi machine on the sea shore](https://github.com/fmorys/english-for-designers/blob/main/Night.jpg?raw=true)
