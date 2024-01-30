@@ -5,6 +5,7 @@ There's a little thing called an NDA that's preventing me from showing most of t
 
 ### Visual identities
 [Hraj s námi!](https://www.morys.studio/portfolio-collections/my-portfolio/project-title-4-1-8de6e8-1)
+![a 3D render of a stylized game figure](https://static.wixstatic.com/media/c5b70a_3208d32437474d7ca8b382f30af17624~mv2.jpg/v1/fill/w_1920,h_1011,fp_0.50_0.50,q_85/c5b70a_3208d32437474d7ca8b382f30af17624~mv2.jpg) 
 
 Hraj s Námi! serves as a recruitment website for Eluvia, a company which provides IT solutions. The name directly translates to "Play with Us!" and the website mainly aims to provide info about the company and the team members. Since we're all supposed to "play together" in this context, I decided that a playing board figure would be the best element to use for the purposes of the website. I've used it as the basis for most of the 3D visuals on the website and we also have an ongoing arrangement - when there's a new employee joining the office, they can describe their playing board figure, pick which colors/accessories they like and I create that figure for use on the website.
 
