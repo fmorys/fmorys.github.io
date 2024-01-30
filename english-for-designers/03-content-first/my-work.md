@@ -1,6 +1,6 @@
 # My projects
 
-There's a little thing called an NDA that's preventing me from showing most of the stuff I've worked on for the past year, so you're just going to have to take my word for it when I say that some of it is actually pretty cool. I can however show off some of the projects I've worked on either before I started working at DDB, or during my time there as I do need some kind of a creative release from time to time even when I come back home from work.
+There's a little thing called an NDA that's preventing me from showing most of the stuff I've worked on for the past year, so you're just going to have to take my word for it when I say that some of it is actually pretty cool. I can however show off some of the projects I've worked on either before I started working at DDB, or during my time there as I do need some kind of a creative release from time to time even when I come back home from work. 
 
 
 ### Visual identities
@@ -22,14 +22,17 @@ An AR filter I created for the Christmas campaign of Skutečný dárek - a proje
 
 ### 3D Work (mostly personal projects)
 
-A part of a series of visuals made as a proposal for DDB FTW Prague.
+A series of visuals made as a proposal for DDB FTW Prague.
 ![a 3D render of a stylized keyboard](https://github.com/fmorys/english-for-designers/blob/main/KEYBOARD.png?raw=true) 
+![a 3D render of a post-apocalyptic city](https://github.com/fmorys/english-for-designers/blob/main/CITY.jpg?raw=true)
+![a 3D render of a glowing sci-fi loot crate](https://github.com/fmorys/english-for-designers/blob/main/RENDERDDB.png?raw=true)
 
-A test environment for a stylized sea water shader.
+A test environment for a stylized sea shader.
 ![a 3D render of a night time scene of a glowing sci-fi machine on the sea shore](https://github.com/fmorys/english-for-designers/blob/main/Night.jpg?raw=true)
 
 A mock-up of the visual style for a 3D online experience showcasing brutalist buildings in Prague.
 ![a 3D render of a map of Prague with glowing streets](https://github.com/fmorys/english-for-designers/blob/main/PRAGUE%20RENDER.png?raw=true)
 
-A part of another project in a similar style, this time it's a series of stylized prints of brutalist buildings in Prague.
+A part of another project in a similar style, this time a series of stylized prints of brutalist buildings in Prague.
 ![a 3D render of a high-rise brutalist building](https://github.com/fmorys/english-for-designers/blob/main/CENTROTEXV2.png?raw=true)
+![a poster of a 3D render of a high-rise brutalist building](https://github.com/fmorys/english-for-designers/blob/main/brutworksposter.png?raw=true)
