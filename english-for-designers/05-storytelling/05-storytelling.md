@@ -4,11 +4,15 @@ Have you ever found yourself pausing from the relentless gaze at an empty file, 
 You tell yourself “This might come in handy, atleast I’ll get some inspiration.” You hear the AI text-to-speech lady, designed to have the most irritating voice possible, read out the dreaded words “I am a graphic designer and I made this!”
 
 In about half the cases, what follows might actually be a showcase of works which make you go “Hey, the YouTube channel pumping out compilations of people climbing 100-story buildings was right, people really are awesome.” However, the rest results in you getting bombarded by the most soulless, generic, trend-adhering designs ever made. You go take a look at the person’s profile and notice that they have uploaded 8 videos just this week, 3 of which are visuals made to combine a word and an object in “clever” ways for the hundredth time (finally, the word “HOPE” with a little sun substituting the letter “O”, groundbreaking.) This person clearly has some sort of sense for aesthetics but they don’t seem to be trying to come up with anything that’ll leave an enduring impression. You notice the uncomfortably high amount of views, you take a look at the comments and see a surprising amount of praise (even though about half of the comments ask that you check out their similarly “vibrant” content in return).
+
+
 <img src="https://github.com/fmorys/fmorys.github.io/blob/main/english-for-designers/img/1.png?raw=true" alt="an image of the word hope with the letter O replaced with the icon of a sun" width="300" height="auto">
+
 <img src="https://github.com/fmorys/fmorys.github.io/blob/main/english-for-designers/img/2.png?raw=true" alt="a very unimaginative recreation of the youtube logo" width="300" height="auto">
 
 
 You go back to the video feed, take the plunge and scroll one more time. You see a person designing a logo on their iPad in Procreate, using a stylus. You might think that this is just the sketch which they’ll use as a jumping-off point but no, this will be the final product. To make it worse, the final product is the letters, making up the name “Emily”, combined into a shape which can only be described as a man-made horror beyond human comprehension. You check their profile yet again and not only do you see 86 other people asking the person to do the same with their name, you also notice that this same person used to make pretty interesting illustrations just a year ago.
+
 <img src="https://github.com/fmorys/fmorys.github.io/blob/main/english-for-designers/img/3.png?raw=true" alt="a very unimaginative recreation of the youtube logo" width="300" height="auto">
 
 The abundance of views and comments, leaves you returning to your empty canvas with a series of nagging questions lingering in your head; “Is this all it takes?” “What’s the point in trying?”. This relentless pursuit of trying to satisfy the algorithm seems to prioritize fleeting internet fame over creating designs that solve problems, communicate effectively, and show any passion towards the craft.
