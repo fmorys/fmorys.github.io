@@ -1,5 +1,8 @@
 # english-for-designers
 
+## Thesis
+[Thesis](english-for-designers/06-thesis/06-thesis.md)
+
 ## Storytelling
 [Storytelling](english-for-designers/05-storytelling/05-storytelling.md)
 
