@@ -1,6 +1,6 @@
 # Quality over Quantity
 
-[Video](english-for-designers/img/output-story.mp4)
+[Video](https://drive.google.com/file/d/1r1GgTAa5QYz8U1H7TPwJnWEpNtA0VnxF/view?usp=sharing)
 
 Have you ever found yourself pausing from the relentless gaze at an empty file, wrestling to piece together creative ideas into a coherent design? Did that pause result in you getting comfy and preparing to spend some time scrolling your favourite short-form content platform and looking at brainrot served up to you by the algorithm? Too bad. The algorithm knows that you dabble in graphic design and today, that is what you’re going to get.
 You tell yourself “This might come in handy, atleast I’ll get some inspiration.” You hear the AI text-to-speech lady, designed to have the most irritating voice possible, read out the dreaded words “I am a graphic designer and I made this!”
