@@ -1,1 +1,7 @@
+# A year in review
+
+If anything, this year has been intense. It far surpassed all other times in my life when I felt like I was put under pressure and had to deal with it. It really felt like someone threw me into a pool and I had about 6.3 seconds to learn how to swim - although that someone was very often me. I don't however see this as a negative thing. It was something I needed. However short those 6 seconds felt at the beginning it turned out to be plenty of time. I learned to realize that things usually aren't as serious as they might seem. I learned to push myself to strive for more but not to overdo it by having unrealistic expactations. A large driving factor behind that was Monty Python yet again proving itself to be the solution for most of the world's problems when I heard John Cleese talk about creativity and explain that great things really do take time. Those few minutes helped me overcome a lot of thoughts I've had on my mind for some time and I've had issues dealing with them myself. In a similar way, my relationship with doing presentations and talking in front of people changed quite a bit when there were times I didn't have time to prepare and had to improvise. It went fine. Just like many other things - it's just not as serious as it seemed to me.
+
+There were times when things got exhausting of course, but more than anything this year gave me the kick I needed to feel motivated and comfortable with myself and I'm very grateful for it. 
+
 
