@@ -1,6 +1,6 @@
 # Thesis
 
-[Video](english-for-designers/img/output.mp4)
+[Video](https://drive.google.com/file/d/11sO0uCQxQNImS-J9NhuwcRANflWBrPkg/view)
 
 Hello, I'm Philip, and I'm excited to show you my bachelor's thesis. The subject of which is crafting the visual style of a racing game. You might be wondering why I'd do such a thing and there are three key reasons driving my decision.
 
